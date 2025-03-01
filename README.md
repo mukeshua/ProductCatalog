@@ -17,7 +17,7 @@ This is a RESTful API built with Laravel to manage a product catalog. The API al
 - PHP >= 7.4
 - Composer
 - Laravel >= 8.x
-- MySQL or SQLite database
+- MySQL database
 
 ## Installation
 
