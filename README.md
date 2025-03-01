@@ -33,7 +33,7 @@ cd ProductCatalog
 composer install
 composer require mockery/mockery --dev
 php artisan key:generate
-Ensure you have a MySQL database set up. Update the .env file with your database credentials
+Ensure you have a MySQL database set up. Update the .env file with your database credentials (change file rename.env to .env)
 php artisan migrate
 php artisan serve
 
