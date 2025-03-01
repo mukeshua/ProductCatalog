@@ -41,5 +41,6 @@ Refer this for API Documentation
 
 https://documenter.getpostman.com/view/10176132/2sAYdhKqZc
 
-Note:Set the {{baseUrl}} under Enviroments in Postman
+Note:Set the {{baseUrl}} under Enviroments in Postman,
 like in Variable  baseUrl and in values enter http://127.0.0.1:8000/api/v1
+
